@@ -9,4 +9,3 @@ fields:
   label: Title
 pages:
 - content/post/awesome-project-from-forestry.md
-- data/contact/contact.json
