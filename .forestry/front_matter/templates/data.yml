@@ -7,5 +7,10 @@ fields:
   config:
     required: false
   label: name
+- name: email
+  type: text
+  config:
+    required: false
+  label: email
 pages:
 - data/contact/contact.json
