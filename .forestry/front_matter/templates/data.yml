@@ -12,3 +12,5 @@ fields:
   config:
     required: false
   label: email
+pages:
+- data/contact/contact.json
